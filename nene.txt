@@ -1,1 +1,280 @@
 นางสาว กานต์รวี จิตพัฒน์ 
+index.htm
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <title>หน้าแรก - Portfolio กานต์รวี</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">หน้าแรก</a> |
+        <a href="about.html">ประวัติส่วนตัว</a> |
+        <a href="skills.html">ทักษะ</a> |
+        <a href="portfolio.html">ผลงาน</a> |
+        <a href="certificates.html">เกียรติบัตร</a> |
+        <a href="goals.html">เป้าหมาย</a> |
+        <a href="contact.html">ติดต่อ</a>
+    </nav>
+
+    <header>
+        <img src="profile.jpg" alt="รูปภาพโปรไฟล์ นางสาวกานต์รวี จิตพัฒน์" width="200">
+        <h1>ยินดีต้อนรับสู่เว็บไซต์พอร์ตโฟลิโอ!</h1>
+        <p>สวัสดีค่ะ! ดิฉัน <strong>นางสาวกานต์รวี จิตพัฒน์</strong> นักเรียนชั้น ม.5/7 โรงเรียนธาตุนารายณ์วิทยา เป็นผู้ที่สนใจการเรียนรู้สิ่งใหม่ๆ มุ่งมั่นพัฒนาตนเอง และพร้อมที่จะสร้างสรรค์ผลงานอย่างเต็มที่ค่ะ</p>
+    </header>
+</body>
+</html>
+
+about.html
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <title>ประวัติส่วนตัว - Portfolio กานต์รวี</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">หน้าแรก</a> |
+        <a href="about.html">ประวัติส่วนตัว</a> |
+        <a href="skills.html">ทักษะ</a> |
+        <a href="portfolio.html">ผลงาน</a> |
+        <a href="certificates.html">เกียรติบัตร</a> |
+        <a href="goals.html">เป้าหมาย</a> |
+        <a href="contact.html">ติดต่อ</a>
+    </nav>
+
+    <section>
+        <h2>ประวัติส่วนตัวเบื้องต้น</h2>
+        <p><strong>ชื่อ-นามสกุล:</strong> นางสาวกานต์รวี จิตพัฒน์</p>
+        <p><strong>ระดับชั้น:</strong> มัธยมศึกษาปีที่ 5/7</p>
+        <p><strong>โรงเรียน:</strong> โรงเรียนธาตุนารายณ์วิทยา</p>
+
+        <h2>ประวัติการศึกษา</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>ระดับชั้น</th>
+                    <th>ชื่อโรงเรียน/สถาบัน</th>
+                    <th>ปีการศึกษา</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>ประถมศึกษา</td>
+                    <td>โรงเรียนบ้านยางโล้นเจริญราฎร์ไพบูลย์</td>
+                    <td>2558 - 2563</td>
+                </tr>
+                <tr>
+                    <td>มัธยมศึกษาตอนต้น</td>
+                    <td>โรงเรียนบ้านยางโล้นเจริญราฎร์ไพบูลย์</td>
+                    <td>2564 - 2566</td>
+                </tr>
+                <tr>
+                    <td>มัธยมศึกษาตอนปลาย (ม.5/7)</td>
+                    <td>โรงเรียนธาตุนารายณ์วิทยา</td>
+                    <td>2567 - ปัจจุบัน</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+</body>
+</html>
+
+skills.html
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <title>ทักษะและความสามารถ - Portfolio กานต์รวี</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">หน้าแรก</a> |
+        <a href="about.html">ประวัติส่วนตัว</a> |
+        <a href="skills.html">ทักษะ</a> |
+        <a href="portfolio.html">ผลงาน</a> |
+        <a href="certificates.html">เกียรติบัตร</a> |
+        <a href="goals.html">เป้าหมาย</a> |
+        <a href="contact.html">ติดต่อ</a>
+    </nav>
+
+    <section>
+        <h2>ทักษะและความสามารถ (Skills)</h2>
+        
+        <h3>ทักษะทางเทคนิค (Hard Skills)</h3>
+        <ul>
+            <li>การเขียนโค้ดและสร้างเว็บไซต์เบื้องต้นด้วย HTML และ CSS</li>
+            <li>การประกอบและเขียนโค้ดควบคุมหุ่นยนต์ LEGO Spike Prime</li>
+            <li>การออกแบบสื่อและกราฟิกด้วย Canva และ Photoshop</li>
+        </ul>
+
+        <h3>ทักษะด้านการทำงาน (Soft Skills)</h3>
+        <ul>
+            <li>การทำงานร่วมกับผู้อื่นและการเป็นผู้นำทีม (Leadership & Teamwork)</li>
+            <li>การคิดวิเคราะห์และการแก้ปัญหาอย่างเป็นระบบ (Critical Thinking)</li>
+            <li>การสื่อสารและการนำเสนอผลงาน (Presentation Skills)</li>
+        </ul>
+    </section>
+</body>
+</html>
+
+portfolio.html
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <title>ผลงานและโครงงาน - Portfolio กานต์รวี</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">หน้าแรก</a> |
+        <a href="about.html">ประวัติส่วนตัว</a> |
+        <a href="skills.html">ทักษะ</a> |
+        <a href="portfolio.html">ผลงาน</a> |
+        <a href="certificates.html">เกียรติบัตร</a> |
+        <a href="goals.html">เป้าหมาย</a> |
+        <a href="contact.html">ติดต่อ</a>
+    </nav>
+
+    <section>
+        <h2>ผลงานและโครงงานที่ผ่านมา</h2>
+
+        <article>
+            <img src="project1.jpg" alt="ภาพผลงานหุ่นยนต์ LEGO Spike Prime" width="300">
+            <h3>1. โครงงานหุ่นยนต์แยกสารและเดินตามเส้น (LEGO Spike Prime)</h3>
+            <p><strong>หน้าที่ของ นางสาวกานต์รวี จิตพัฒน์:</strong> รับผิดชอบการออกแบบโครงสร้างเชิงกลของหุ่นยนต์ และเขียนโปรแกรมควบคุมเซนเซอร์ตรวจจับสี (Color Sensor)</p>
+        </article>
+
+        <article>
+            <img src="project2.jpg" alt="ภาพผลงานโครงงานวิทยาศาสตร์" width="300">
+            <h3>2. โครงงานวิทยาศาสตร์สิ่งแวดล้อม โรงเรียนธาตุนารายณ์วิทยา</h3>
+            <p><strong>หน้าที่ของ นางสาวกานต์รวี จิตพัฒน์:</strong> ทำหน้าที่เป็นหัวหน้ากลุ่ม รวบรวมข้อมูล ร่างรูปเล่มรายงาน และนำเสนอผลงานต่อคณะกรรมการ</p>
+        </article>
+
+        <article>
+            <img src="project3.jpg" alt="ภาพผลงานสิ่งประดิษฐ์" width="300">
+            <h3>3. โครงงานสิ่งประดิษฐ์ระบบรดน้ำอัตโนมัติ</h3>
+            <p><strong>หน้าที่ของ นางสาวกานต์รวี จิตพัฒน์:</strong> ออกแบบการต่อวงจรเซนเซอร์วัดความชื้นในดิน และจัดทำสื่อนำเสนอผลงานสิ่งประดิษฐ์</p>
+        </article>
+    </section>
+</body>
+</html>
+
+certificates.html
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <title>เกียรติบัตรและรางวัล - Portfolio กานต์รวี</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">หน้าแรก</a> |
+        <a href="about.html">ประวัติส่วนตัว</a> |
+        <a href="skills.html">ทักษะ</a> |
+        <a href="portfolio.html">ผลงาน</a> |
+        <a href="certificates.html">เกียรติบัตร</a> |
+        <a href="goals.html">เป้าหมาย</a> |
+        <a href="contact.html">ติดต่อ</a>
+    </nav>
+
+    <section>
+        <h2>เกียรติบัตรและการเข้าร่วมกิจกรรม</h2>
+
+        <figure>
+            <img src="cert1.jpg" alt="เกียรติบัตรการแข่งขันหุ่นยนต์" width="350">
+            <figcaption>เกียรติบัตรเข้าร่วมการแข่งขันหุ่นยนต์ LEGO Spike Prime ตัวแทนนักเรียนโรงเรียนธาตุนารายณ์วิทยา</figcaption>
+        </figure>
+
+        <figure>
+            <img src="cert2.jpg" alt="เกียรติบัตรค่ายอบรม" width="350">
+            <figcaption>เกียรติบัตรผ่านการอบรมค่ายพัฒนาทักษะดิจิทัลและการเขียนโปรแกรมคอมพิวเตอร์</figcaption>
+        </figure>
+    </section>
+</body>
+</html>
+
+goals.html
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <title>เป้าหมายในอนาคต - Portfolio กานต์รวี</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">หน้าแรก</a> |
+        <a href="about.html">ประวัติส่วนตัว</a> |
+        <a href="skills.html">ทักษะ</a> |
+        <a href="portfolio.html">ผลงาน</a> |
+        <a href="certificates.html">เกียรติบัตร</a> |
+        <a href="goals.html">เป้าหมาย</a> |
+        <a href="contact.html">ติดต่อ</a>
+    </nav>
+
+    <section>
+        <h2>เป้าหมายในอนาคต (Future Goals)</h2>
+        
+        <h3>เป้าหมายการศึกษาต่อ</h3>
+        <p>ในฐานะนักเรียนชั้น ม.5/7 โรงเรียนธาตุนารายณ์วิทยา ดิฉันมีความตั้งใจอย่างมุ่งมั่นที่จะเข้าศึกษาต่อในระดับอุดมศึกษา ใน **คณะวิศวกรรมศาสตร์ หรือ คณะวิทยาศาสตร์ สาขาเทคโนโลยีดิจิทัล/คอมพิวเตอร์** เพื่อศึกษาต่อยอดความรู้ด้านเทคโนโลยีและนวัตกรรม</p>
+
+        <h3>เป้าหมายสายอาชีพ</h3>
+        <p>เป้าหมายในอนาคตของดิฉันคือการได้ทำงานในสายอาชีพ **นักพัฒนาซอฟต์แวร์ (Software Developer) หรือ วิศวกรระบบอัตโนมัติ** เพื่อนำเทคโนโลยีมาช่วยแก้ปัญหา พัฒนาองค์กร และสร้างสรรค์ประโยชน์ให้แก่สังคมอย่างยั่งยืนค่ะ</p>
+    </section>
+</body>
+</html>
+
+contact.html
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <title>ติดต่อสอบถาม - Portfolio กานต์รวี</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+        <a href="goals.html">เป้าหมาย</a> |
+        <a href="contact.html">ติดต่อ</a>
+    </nav>
+
+    <section>
+        <h2>ข้อมูลการติดต่อ</h2>
+        <p><strong>ชื่อ-นามสกุล:</strong> นางสาวกานต์รวี จิตพัฒน์ (ม.5/7)</p>
+        <p><strong>สถานศึกษา:</strong> โรงเรียนธาตุนารายณ์วิทยา</p>
+        <p><strong>อีเมล:</strong> 30159@tnw.ac.th.gemi.com</p>
+        <p><strong>Facebook:</strong> Kanrawee Jitphat</p>
+
+        <hr style="margin: 20px 0;">
+
+        <h2>ฝากข้อความถึงกานต์รวี</h2>
+        <form>
+            <div>
+                <label for="fullname">ชื่อ-นามสกุล ผู้ติดต่อ:</label>
+                <input type="text" id="fullname" name="fullname" placeholder="กรอกชื่อ-นามสกุลของคุณ" required>
+            </div>
+            <div>
+                <label for="email">อีเมล:</label>
+                <input type="email" id="email" name="email" placeholder="example@mail.com" required>
+            </div>
+            <div>
+                <label for="message">ข้อความ:</label>
+                <textarea id="message" name="message" rows="5" placeholder="พิมพ์ข้อความของคุณที่นี่..." required></textarea>
+            </div>
+            <button type="submit">ยืนยันส่งข้อความ</button>
+        </form>
+    </section>
+</body>
+</html>
+
+    <nav>
+        <a href="index.html">หน้าแรก</a> |
+        <a href="about.html">ประวัติส่วนตัว</a> |
+        <a href="skills.html">ทักษะ</a> |
+        <a href="portfolio.html">ผลงาน</a> |
+        <a href="certificates.html">เกียรติบัตร</a> |
